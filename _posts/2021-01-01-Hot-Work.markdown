@@ -1,0 +1,28 @@
+---
+title: Hot Work
+author: Don MacIsaac
+date: 2021-01-01 12:00:00 +0000
+categories: [General]
+tags: [Hot Work]
+math: true
+mermaid: true
+---
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/US_Navy_090114-N-9704L-004_Hull_Technician_Fireman_John_Hansen_lays_beads_for_welding_qualifications.jpg/640px-US_Navy_090114-N-9704L-004_Hull_Technician_Fireman_John_Hansen_lays_beads_for_welding_qualifications.jpg "Hot Work")
+## Summary
+This bulletin comes after a number of recent hot work accidents that share all or many of the same safety lessons. Seven of the accidents have occurred since July 2008. While each accident has unique features, all resulted from a flammable vapor coming in contact with an ignition source created by welding or cutting that was performed in, on, or near tanks that contained flammables. In some cases, the presence of a flammable material was completely unknown to the workers; in all cases, the workers had no knowledge that an explosive amount of flammable vapor had accumulated. While much can be learned from these hot work accidents, this bulletin highlights seven specific lessons that the CSB concludes will have the greatest safety impact if implemented in the workplace.
+
+## Key Learnings:
+1. Use Alternatives
+2. Analyze the Hazards
+3. Monitor the Atmosphere
+4. Test the Area
+5. Use Written Permits
+6. Train Thoroughly
+7. Supervise Contractors
+
+## Resources
+Check out [Wikipedia][wikipedia] or the [Bulletin][investigation] for more info. Or, watch this [Video][video]. 
+
+[wikipedia]: https://en.wikipedia.org/wiki/Hot_work
+[investigation]: https://www.csb.gov/assets/1/17/csb_hot_work_safety_bulletin_embargoed_until_10_a_m__3_4_101.pdf?14329
+[video]: https://www.youtube.com/watch?v=zWkcuR0adeI

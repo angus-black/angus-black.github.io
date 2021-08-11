@@ -2,8 +2,8 @@
 title: BP Texas City
 author: Don MacIsaac
 date: 2005-03-23 12:00:00 +0000
-categories: [Accidents, Petrochemical]
-tags: [Refinery]
+categories: [Accidents, Refinery]
+tags: [Refinery, Handover]
 math: true
 mermaid: true
 ---
