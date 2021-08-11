@@ -1,0 +1,24 @@
+---
+title: Aberfan
+author: Don MacIsaac
+date: 1966-10-21 12:00:00 +0000
+categories: [Accidents, Mining]
+tags: [Mining]
+math: true
+mermaid: true
+---
+![alt text](https://upload.wikimedia.org/wikipedia/en/b/b3/Aberfan_disaster%2C_October_1966.jpg "Aberfan")
+## Summary
+The Aberfan disaster was the catastrophic collapse of a colliery spoil tip in the Welsh village of Aberfan, near Merthyr Tydfil, that killed 116 children and 28 adults on 21 October 1966. The collapse was caused by the build-up of water in the accumulated rock and shale tip, which suddenly slid downhill in the form of slurry. The classrooms at Pantglas Junior School were immediately inundated; young children and teachers died from impact or suffocation. Many noted the poignancy of the situation: if the disaster had struck a few minutes earlier, the children would not have been in their classrooms, and if it had struck a few hours later, they would have left for the half-term holiday.
+
+## Key Learnings:
+1. the importance of suitable standards, codes of practice and legislation
+2. lessons are learned, captured, disseminated and fed back into future designs
+3. never forget the societal, community and health impacts
+
+## Resources
+Check out [Wikipedia][wikipedia] or the [Investigation][investigation] for more info. Or, watch this [Video][video]. 
+
+[wikipedia]: https://en.wikipedia.org/wiki/Aberfan_disaster
+[investigation]:   https://www.ice.org.uk/what-is-civil-engineering/what-do-civil-engineers-do/aberfan-disaster-lessons-learnt
+[video]: https://www.youtube.com/watch?v=rRAEBMtqSys
