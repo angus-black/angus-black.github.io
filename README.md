@@ -1,6 +1,6 @@
 <div align="right">
   <a href="https://github.com/cotes2020/jekyll-theme-chirpy#readme">EN</a> |
-  <a href="https://github.com/cotes2020/jekyll-theme-chirpy/blob/main/docs/README.zh-CN.md">中文 (简体)</a>
+  <a href="https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/docs/README.zh-CN.md">中文 (简体)</a>
 </div>
 
 <div align="center">
@@ -9,13 +9,13 @@
     <a href="https://rubygems.org/gems/jekyll-theme-chirpy">
     <img alt="Gem Version" src="https://img.shields.io/gem/v/jekyll-theme-chirpy?color=brightgreen"></img>
   </a>
-    <a href="https://github.com/cotes2020/jekyll-theme-chirpy/actions?query=branch%3Amain+event%3Apush">
+    <a href="https://github.com/cotes2020/jekyll-theme-chirpy/actions?query=branch%3Amaster+event%3Apush">
     <img alt="Build Status" src="https://github.com/cotes2020/jekyll-theme-chirpy/workflows/build/badge.svg?branch=main&event=push"></img>
   </a>
     <a href="https://app.codacy.com/manual/cotes2020/jekyll-theme-chirpy?utm_source=github.com&utm_medium=referral&utm_content=cotes2020/jekyll-theme-chirpy&utm_campaign=Badge_Grade_Dashboard">
     <img alt="Codacy Badge" src="https://api.codacy.com/project/badge/Grade/8220b926db514f13afc3f02b7f884f4b"></img>
   </a>
-    <a href="https://github.com/cotes2020/jekyll-theme-chirpy/blob/main/LICENSE">
+    <a href="https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE">
     <img alt="GitHub license" src="https://img.shields.io/github/license/cotes2020/jekyll-theme-chirpy.svg"></img>
   </a>
     <a href="https://996.icu">
@@ -238,11 +238,11 @@ If you like this theme or find it helpful, please consider sponsoring me, becaus
 
 ## License
 
-This work is published under [MIT](https://github.com/cotes2020/jekyll-theme-chirpy/blob/main/LICENSE) License.
+This work is published under [MIT](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE) License.
 
 [starter]: https://github.com/cotes2020/chirpy-starter
 [use-starter]: https://github.com/cotes2020/chirpy-starter/generate
-[workflow]: https://github.com/cotes2020/jekyll-theme-chirpy/blob/main/.github/workflows/pages-deploy.yml.hook
+[workflow]: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/.github/workflows/pages-deploy.yml.hook
 
 <!-- ReadMe links -->
 
