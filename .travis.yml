@@ -43,8 +43,10 @@ before_script:
   - git -C "$HOME" clone "$BUILDER_REPO" --depth=1 -q
 
 branches:
-  only: /.*-stable$/
-
+  only:
+  - gh-pages
+  - /.*/
+  
 notifications:
   email:
     recipients:
