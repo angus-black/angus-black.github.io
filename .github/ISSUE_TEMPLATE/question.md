@@ -13,7 +13,7 @@ labels: question
 - [ ] I have read the [tutorials](https://chirpy.cotes.info/categories/tutorial/) and know the correct effect of the functional design.
 - [ ] There are no similar question on existing issues (including closed ones).
 - [ ] I searched the Internet for related problems, but still couldn't solve it.
-- [ ] My question is based on the latest code of `master` branch.
+- [ ] My question is based on the latest code of `main` branch.
 
 ## Description
 <!-- Please describe your question in detail. -->

@@ -9,7 +9,7 @@ about: Create a report to help us improve
 <!-- Please complete the following list of tasks, and then check it by change the "[ ]" to "[x]" -->
 - [ ] I have read the [tutorials](https://chirpy.cotes.info/categories/tutorial/) and know the correct effect of the functional design.
 - [ ] There are no similar reports on existing issues (including closed ones).
-- [ ] I found the bug on the latest code of `master` branch.
+- [ ] I found the bug on the latest code of `main` branch.
 
 ## Describe the bug
 <!-- A clear and concise description of what the bug is. -->
