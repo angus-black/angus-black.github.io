@@ -7,7 +7,7 @@ Hi, my name is Don MacIsaac and I’m an engineer by trade. This is a collection
   
 Thankfully, these major incidents happen only infrequently, but that means that in order to learn from them we need to cast a wide net. As engineers, inspectors, operators, or regulators, there’s meaning behind the work we do, with even the most basic of tasks being important. Remember that the next time you’re frustrated by Excel, the number of thickness readings you have to take, or the paperwork required to start work. Hopefully, you take away from this an appreciation for the complexity of systems, the importance of vigilance and the sanctity of life.
   
-I will continue to chip away at this listing in this format, but if you have incidents that you think should be on here, please contact me on LinkedIn. Ideally, I’d like for this to become publicly collaborative, but I don’t have the answers on how to do that yet. If you do, get in touch.
+I will continue to chip away at this listing in this format, but if you have incidents that you think should be on here, please contact me on LinkedIn.
   
 Take care,
 Don
