@@ -17,7 +17,7 @@ timezone: Australia/Brisbane
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Safety Critical (Test)                         # the main title
+title: Safety Critical                         # the main title
 
 tagline: one life per 10^9 hours   # it will display as the sub-title
 
