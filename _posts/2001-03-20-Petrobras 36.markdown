@@ -1,0 +1,30 @@
+﻿---
+title: Petrobras 36
+author: Don MacIsaac
+date: 2001-03-20 12:00:00 +0000
+categories: [Accidents, Offshore]
+tags: [Offshore, Cost Cutting, Alarm Flooding]
+math: true
+mermaid: true
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Oz10Rsw_bJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Summary
+In the early hours of March 15, 2001 there were two explosions in the aft starboard column at or around the emergency drain tank. The first explosion was caused by an overpressure event, the second by ignition of leaking hydrocarbon vapor. At the time there were 175 people on the rig; 11 were killed. Following the explosions, the rig developed a 16° list, sufficient to allow down-flooding from the submerged fairlead boxes. Marine salvage teams tried over the weekend to save the platform by pumping nitrogen and compressed air into the tanks to expel the water, but they abandoned the rig after bad weather. The platform sank five days after the explosions (on March 20), in 1,200 m of water with an estimated 1,500 tonnes of crude oil remaining on board.
+
+
+## Key Learnings / Issues:
+1. Poor design placement of key safety-critical parts.
+2. Component failure without sufficient backup.
+3. Alarm flooding. 1,723 alarms were triggered in 17 minutes with no prioritization.
+4.  Poor training of contracted workers.
+5. A corporate focus on cost-cutting.
+
+
+## Quote:
+*“The project successfully rejected… prescriptive engineering, onerous quality requirements, and outdated concepts of inspection…”*        \
+A Petrobras executive, prior to the accident, on delivering superior financials.
+
+
+## Resources
+[Wikipedia](https://en.wikipedia.org/wiki/Petrobras_36){:target="_blank"}        \
+[Investigation](http://www.anp.gov.br/images/EXPLORACAO_E_PRODUCAO_DE_OLEO_E_GAS/Seguranca_Operacional/Relat_incidentes/Analysis_of_the_Accident_with_the_Platform_P-36.pdf){:target="_blank"}
