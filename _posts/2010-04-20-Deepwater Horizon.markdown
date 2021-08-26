@@ -1,7 +1,7 @@
 ﻿---
 title: Deepwater Horizon
 author: Don MacIsaac
-date: 1988-07-07 12:00:00 +0000
+date: 2010-04-20 12:00:00 +0000
 categories: [Accidents, Offshore]
 tags: [Production Pressure, Diffusion of responsibility, Alarm Override]
 ---

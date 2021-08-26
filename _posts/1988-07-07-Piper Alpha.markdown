@@ -1,7 +1,7 @@
 ﻿---
 title: Piper Alpha
 author: Don MacIsaac
-date: 2010-04-20 12:00:00 +0000
+date: 1988-07-07 12:00:00 +0000
 categories: [Accidents, Offshore]
 tags: [Shift Handover, Permit to Work, Lessons Learnt]
 ---
