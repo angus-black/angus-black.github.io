@@ -25,7 +25,7 @@ description: >-                        # used by seo meta and the atom feed
   A collection of process safety learnings from industrial accidents.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://angus-black.github.io/'
+url: 'https://safetycritical.net/'
 
 github:
   username: angus-black             # change to your github username
