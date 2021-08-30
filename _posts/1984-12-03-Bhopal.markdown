@@ -1,0 +1,28 @@
+﻿---
+title: Bhopal
+author: Don MacIsaac
+date: 1984-12-03 12:00:00 +0000
+categories: [Accidents, Chemical]
+tags: [Process Hazard Analysis, Inventory Management, Social License]
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HZirRB32qzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Summary
+On December 3 1984, more than 40 tons of methyl isocyanate gas leaked from a pesticide plant in Bhopal, India, immediately killing at least 3,800 people and causing significant morbidity and premature death for many thousands more. It is considered among the world's worst industrial disasters.
+
+
+## Key Learnings / Issues
+1. The absence of a process hazard analysis.
+2. Poorly maintained equipment and safety systems.
+3. A lack of emergency response planning.
+4. Inadequate training for operators.
+5. Unnecessary and excessive storage of MIC (an intermediate).
+
+
+## Quote
+*“You want Osama, give us Anderson.”*        \
+A sign held by a victim of the disaster demanding the extradition of the CEO.
+
+
+## Resources
+[Wikipedia](https://en.wikipedia.org/wiki/Bhopal_disaster){:target="_blank"}        \
+[Investigation](https://www.icheme.org/media/12438/lpb269_pg11.pdf){:target="_blank"}
