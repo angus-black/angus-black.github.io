@@ -5,7 +5,7 @@ date: 1984-12-03 12:00:00 +0000
 categories: [Accidents, Chemical]
 tags: [Process Hazard Analysis, Inventory Management, Social License]
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HZirRB32qzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html id='HZirRB32qzU' %}
 ## Summary
 On December 3 1984, more than 40 tons of methyl isocyanate gas leaked from a pesticide plant in Bhopal, India, immediately killing at least 3,800 people and causing significant morbidity and premature death for many thousands more. It is considered among the world's worst industrial disasters.
 

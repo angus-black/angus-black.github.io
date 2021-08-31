@@ -5,7 +5,7 @@ date: 1966-10-21 12:00:00 +0000
 categories: [Accidents, Mining]
 tags: [Safety in Design, Social License, Lack of Regulation]
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rRAEBMtqSys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html id='rRAEBMtqSys' %}
 ## Summary
 The Aberfan disaster was the catastrophic collapse of a colliery spoil tip in the Welsh village of Aberfan, near Merthyr Tydfil, that killed 116 children and 28 adults on 21 October 1966. The collapse was caused by the build-up of water in the accumulated rock and shale tip, which suddenly slid downhill in the form of slurry. The classrooms at Pantglas Junior School were immediately inundated; young children and teachers died from impact or suffocation. Many noted the poignancy of the situation: if the disaster had struck a few minutes earlier, the children would not have been in their classrooms, and if it had struck a few hours later, they would have left for the half-term holiday.
 

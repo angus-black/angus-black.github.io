@@ -5,7 +5,7 @@ date: 2001-03-20 12:00:00 +0000
 categories: [Accidents, Offshore]
 tags: [Cost Cutting, Alarm Flooding, Contractor Management]
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Oz10Rsw_bJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html id='Oz10Rsw_bJc' %}
 ## Summary
 In the early hours of March 15, 2001 there were two explosions in the aft starboard column at or around the emergency drain tank. The first explosion was caused by an overpressure event, the second by ignition of leaking hydrocarbon vapor. At the time there were 175 people on the rig; 11 were killed. Following the explosions, the rig developed a 16° list, sufficient to allow down-flooding from the submerged fairlead boxes. Marine salvage teams tried over the weekend to save the platform by pumping nitrogen and compressed air into the tanks to expel the water, but they abandoned the rig after bad weather. The platform sank five days after the explosions (on March 20), in 1,200 m of water with an estimated 1,500 tonnes of crude oil remaining on board.
 

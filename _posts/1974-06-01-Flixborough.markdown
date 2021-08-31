@@ -5,7 +5,7 @@ date: 1974-06-01 12:00:00 +0000
 categories: [Accidents, Chemical]
 tags: [Management of Change, Safety in Design, Start-up & Shutdown]
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WevjRH5fX98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html id='WevjRH5fX98' %}
 ## Summary
 The Flixborough disaster was an explosion at a chemical plant close to the village of Flixborough, North Lincolnshire, England on Saturday, 1 June 1974. It killed 28 people and seriously injured 36 out of a total of 72 people on site at the time. The casualty figures could have been much higher, if the explosion had occurred on a weekday, when the main office area would have been occupied.
 
