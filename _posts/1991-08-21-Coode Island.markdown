@@ -24,5 +24,5 @@ Clive Hale (ABC Newsreader)
 
 
 ## Resources
-[Wikipedia](https://en.wikipedia.org/wiki/Coode_Island){:target="_blank"}        \
+[Presentation](https://www.alnimrexpo.com/ifpc/download/COODE%20Island%20Fire%20Incident_ParkanB.pdf){:target="_blank"}        \
 [Investigation](https://knowledge.aidr.org.au/resources/industrial-coode-island-victoria){:target="_blank"}
