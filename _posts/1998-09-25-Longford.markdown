@@ -1,0 +1,28 @@
+﻿---
+title: Longford
+author: Don MacIsaac
+date: 1998-09-25 12:00:00 +0000
+categories: [Accidents, Onshore]
+tags: [Alarm Flooding, Shift Handover, Safety Leadership]
+---
+{% include youtube.html id='MU7Bo3WyR0k' %}
+## Summary
+The Esso Longford gas explosion was a catastrophic industrial accident which occurred at the Esso natural gas plant at Longford in the Australian state of Victoria's Gippsland region. On 25 September 1998, an explosion took place at the plant, killing two workers and injuring eight. Gas supplies to the state of Victoria were severely affected for two weeks.
+
+
+## Key Learnings / Issues
+1. The plant was poorly designed, and made isolation of dangerous vapours and materials very difficult.
+2. Inadequate training of personnel in normal operating procedures of a hazardous process.
+3. Excessive alarm and warning systems had caused workers to become desensitised to possible hazardous occurrences.
+4. The relocation of plant engineers to Melbourne had reduced the quality of supervision at the plant.
+5. Poor communication between shifts meant that the pump shutdown was not communicated to the following shift.
+
+
+## Quote
+*“There's now a critical shortage of gas in the state; as a result AFL fans face a grand final minus hot chips and pies.”*        \
+Garry Wilkinson (Channel 7 Newsreader)
+
+
+## Resources
+[Wikipedia](https://en.wikipedia.org/wiki/Esso_Longford_gas_explosion){:target="_blank"}        \
+[Investigation](https://www.parliament.vic.gov.au/papers/govpub/VPARL1998-99No61.pdf){:target="_blank"}
